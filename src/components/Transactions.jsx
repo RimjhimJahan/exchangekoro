@@ -1,7 +1,7 @@
 const Transactions = () => {
   const transactions = [
     {
-      name: "Eveline Miller",
+      name: "Atiqur Rahman",
       date: "20 Apr",
       time: "15:34",
       status: "Completed",
@@ -10,6 +10,14 @@ const Transactions = () => {
     },
     {
       name: "Rimjhim Jahan",
+      date: "20 Apr",
+      time: "15:34",
+      status: "Completed",
+      amount: "+6,895.73 USD",
+      type: "USD Balance"
+    },
+    {
+      name: "Dipty",
       date: "20 Apr",
       time: "15:34",
       status: "Completed",
