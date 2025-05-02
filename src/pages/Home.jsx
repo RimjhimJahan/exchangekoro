@@ -8,7 +8,7 @@ import ExchangeRates from '../components/ExchangeRates';
 const Home = () => {
   return (
     <div className="flex bg-gray-50 min-h-screen">
-      <Sidebar />
+ 
       
       <main className="flex-1 ml-[80px] lg:ml-[240px] p-6">
         <div className="grid grid-cols-1 lg:grid-cols-3 gap-6">

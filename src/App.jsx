@@ -3,12 +3,13 @@ import Navbar from './components/Navbar'
 import Footer from './components/Footer'
 import Home from './pages/Home'
 import { useState } from 'react'
+import Sidebar from './components/Sidebar'
 
 function App() {
   return (
     <Router>
       <div className="flex flex-col min-h-screen">
-        <Navbar />
+      <Sidebar />
         <main className="flex-grow">
           <Routes>
             <Route path="/" element={<Home />} />
