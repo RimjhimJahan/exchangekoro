@@ -8,6 +8,14 @@ const Transactions = () => {
       amount: "+6,895.73 USD",
       type: "USD Balance"
     },
+    {
+      name: "Rimjhim Jahan",
+      date: "20 Apr",
+      time: "15:34",
+      status: "Completed",
+      amount: "+6,895.73 USD",
+      type: "USD Balance"
+    },
     // Add more transactions as needed
   ];
 
