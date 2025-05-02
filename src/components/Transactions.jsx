@@ -16,15 +16,8 @@ const Transactions = () => {
       amount: "+6,895.73 USD",
       type: "USD Balance"
     },
-    {
-      name: "Rafi",
-      date: "20 Apr",
-      time: "16:34",
-      status: "Completed",
-      amount: "+7,895.73 USD",
-      type: "USD Balance"
-    },
-    // Add more transactions as needed
+    
+    //Add more transactions as needed
   ];
 
   return (
